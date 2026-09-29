@@ -353,7 +353,7 @@ The project includes Microsoft 365 group administration and dynamic membership c
 
 The complete project documentation is available as a compressed ZIP archive containing the project PDF with **208 screenshots**.
 
-📦 **[Download the Complete MS-102 Project — Compressed ZIP](Microsoft-365-Administration-Security-Lab-MS-102-Project-Under-25MB.zip)**
+📄 **[Download the Complete MS-102 Project](Microsoft-365-Administration-Security-Lab-MS-102-Compressed.pdf)**
 
 The compressed project archive is approximately **3.2 MB**, making it suitable for repository storage and download.
 
